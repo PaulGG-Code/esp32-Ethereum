@@ -1,5 +1,7 @@
 ## IoT ESP32 Blockchain PoC
 
+![esp32](https://raw.githubusercontent.com/PaulGG-Code/esp32-Ethereum/refs/heads/master/img/esp32.jpeg)
+
 Introducing an very simple way to communicate between esp32 and any evm blockchain (Ethereum, BSC, Arbitrum, Optimism, Zkevm, Pol, etc..)
 
 1. Go to remix and deploy the smart contract inside the contract dir.
