@@ -13,3 +13,5 @@ Introducing an very simple way to communicate between esp32 and any evm blockcha
 
 
 Enjoy the easiest demo of connecting esp32 to EVM!
+
+[Article](https://medium.com/@paulgedeon/using-ethereum-in-your-esp32-iot-projects-567c2a44c1ce)
